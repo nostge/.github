@@ -35,8 +35,17 @@ Projelerimizde ağırlıklı olarak kullandığımız diller ve araçlar:
 
 NOSTGE olarak modern web teknolojileri ve mobil uygulamalar üzerine yoğunlaşıyoruz. Açık kaynak dünyasına katkıda bulunmayı ve toplulukla büyümeyi seviyoruz.
 
-📫 **Bize Ulaşın:**
+---
 
-Projelerimiz hakkında sorularınız, iş birliği fikirleriniz veya topluluğa katılmak için bize her zaman yazabilirsiniz:
+### 📫 Bize Ulaşın & Sosyal Medya
 
-📧 **E-posta:** [info@nostge.net](mailto:info@nostge.net)
+Projelerimiz hakkında konuşmak veya bizi takip etmek için:
+
+<p align="left">
+  <a href="mailto:info@nostge.net">
+    <img src="https://img.shields.io/badge/Email-info%40nostge.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/byeco_official">
+    <img src="https://img.shields.io/badge/Instagram-%40byeco__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
