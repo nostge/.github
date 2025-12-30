@@ -1,12 +1,42 @@
-## Hi there 👋
+# 👋 NOSTGE'ye Hoş Geldiniz!
 
-<!--
+**2023 yılından beri** teknoloji ve inovasyon tutkusuyla kodluyoruz. Dijital dünyada iz bırakan projeler geliştirmek için buradayız.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 👥 Çekirdek Ekip (Core Team)
+
+Organizasyonumuzun arkasındaki güç:
+
+* 👑 **[@byeco](https://github.com/byeco)**
+* 🚀 **[@AarontheGalaxy](https://github.com/AarontheGalaxy)**
+* 🔥 **[@onayB09](https://github.com/onayB09)**
+
+---
+
+### 🛠️ Teknoloji Yığınımız (Tech Stack)
+
+Projelerimizde ağırlıklı olarak kullandığımız diller ve araçlar:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" />
+</p>
+
+- **Frontend:** Next.js, React
+- **Mobile:** Expo Go, React Native
+- **Backend & Scripting:** Python, Node.js
+
+---
+
+### 🚀 Neler Yapıyoruz?
+
+NOSTGE olarak modern web teknolojileri ve mobil uygulamalar üzerine yoğunlaşıyoruz. Açık kaynak dünyasına katkıda bulunmayı ve toplulukla büyümeyi seviyoruz.
+
+📫 **Bize Ulaşın:**
+
+Projelerimiz hakkında sorularınız, iş birliği fikirleriniz veya topluluğa katılmak için bize her zaman yazabilirsiniz:
+
+📧 **E-posta:** [info@nostge.net](mailto:info@nostge.net)
