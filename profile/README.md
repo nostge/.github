@@ -1,51 +1,59 @@
-# 👋 NOSTGE'ye Hoş Geldiniz!
+<div align="center">
 
-**2023 yılından beri** teknoloji ve inovasyon tutkusuyla kodluyoruz. Dijital dünyada iz bırakan projeler geliştirmek için buradayız.
+#  NOSTGE 
+### *Crafting the Future of Digital Innovation*
 
----
-
-### 👥 Çekirdek Ekip (Core Team)
-
-Organizasyonumuzun arkasındaki güç:
-
-* 👑 **[@byeco](https://github.com/byeco)**
-* 🚀 **[@AarontheGalaxy](https://github.com/AarontheGalaxy)**
-* 🔥 **[@onayB09](https://github.com/onayB09)**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4393F7&center=true&vCenter=true&width=500&lines=Since+2023;Building+Next-Gen+Web+Apps;Mobile+Experience+Architects;Open+Source+Advocates" alt="Typing SVG" />
 
 ---
 
-### 🛠️ Teknoloji Yığınımız (Tech Stack)
+###  About Us
+**NOSTGE** is a forward-thinking collective dedicated to building high-performance web and mobile solutions. We bridge the gap between imagination and execution through clean code and modern design.
 
-Projelerimizde ağırlıklı olarak kullandığımız diller ve araçlar:
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go" />
+###  The Architects (Core Team)
+
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/byeco">
+        <img src="https://github.com/byeco.png" width="100" style="border-radius: 50%;" alt="byeco"/>
+      </a>
+      <br />
+      <h3>Byeco</h3>
+      <sub>Lead Developer</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/AarontheGalaxy">
+        <img src="https://github.com/AarontheGalaxy.png" width="100" style="border-radius: 50%;" alt="AarontheGalaxy"/>
+      </a>
+      <br />
+      <h3>Aaron</h3>
+      <sub>Core Developer</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/onayB09">
+        <img src="https://github.com/onayB09.png" width="100" style="border-radius: 50%;" alt="onayB09"/>
+      </a>
+      <br />
+      <h3>Onay</h3>
+      <sub>Core Developer</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+###  Our Ecosystem
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,nextjs,react,expo,py,nodejs,tailwind,figma,git,vscode&perline=5" />
 </p>
 
-- **Frontend:** Next.js, React
-- **Mobile:** Expo Go, React Native
-- **Backend & Scripting:** Python, Node.js
-
----
-
-### 🚀 Neler Yapıyoruz?
-
-NOSTGE olarak modern web teknolojileri ve mobil uygulamalar üzerine yoğunlaşıyoruz. Açık kaynak dünyasına katkıda bulunmayı ve toplulukla büyümeyi seviyoruz.
-
----
-
-### 📫 Bize Ulaşın & Sosyal Medya
-
-Projelerimiz hakkında konuşmak veya bizi takip etmek için:
-
-<p align="left">
-  <a href="mailto:info@nostge.net">
-    <img src="https://img.shields.io/badge/Email-info%40nostge.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/byeco_official">
-    <img src="https://img.shields.io/badge/Instagram-%40byeco__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+```javascript
+const NOSTGE = {
+  focus: ["Web Development", "Mobile Apps", "UX/UI"],
+  philosophy: "Code with passion, build with purpose",
+  status: "Always Innovating"
+};
