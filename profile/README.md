@@ -33,11 +33,19 @@
       <sub>Core Developer</sub>
     </td>
     <td align="center" width="160">
-      <a href="https://github.com/onayB09">
-        <img src="https://github.com/onayB09.png" width="100" style="border-radius: 50%;" alt="onayB09"/>
+      <a href="https://github.com/nixaut-codelabs">
+        <img src="https://github.com/nixaut-codelabs.png" width="100" style="border-radius: 50%;" alt="nixaut-codelabs"/>
       </a>
       <br />
-      <h3>Onay</h3>
+      <h3>Umut Can</h3>
+      <sub>Backend & Security</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/RushTR">
+        <img src="https://github.com/RushTR.png" width="100" style="border-radius: 50%;" alt="RushTR"/>
+      </a>
+      <br />
+      <h3>Rush</h3>
       <sub>Core Developer</sub>
     </td>
   </tr>
@@ -48,7 +56,7 @@
 ###  Our Ecosystem
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nextjs,react,expo,py,nodejs,tailwind,figma,git,vscode&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,nextjs,react,expo,bun,py,nodejs,tailwind,figma,git&perline=5" />
 </p>
 
 ```javascript
